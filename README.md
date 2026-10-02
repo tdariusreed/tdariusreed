@@ -2,7 +2,7 @@
 
 An aspiring Data Analyst/Software Engineer currently working as Data and Research Intern.<br/>
 I study Computer Information Systems and Data Analysis at Georgia State University.<br/>
-Learning how to use Python, R, SQL, to accompanied by computer theory and data science foundation courses.<br/>
+Learning how to use Python, R, and SQL, accompanied by courses in computer theory and data science foundations.<br/>
 
 ## Tools 
 + Python, SQL,R
